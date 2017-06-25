@@ -1,0 +1,19 @@
+** Version Control System to keep a track to your code **
+
+***********************************************************
+Important VCS systems 
+
+1. SCCS (Source Code Control System )
+2. RCS (Revision Control System )
+3. CVS ( Current Version System )
+4. Apache Subversion (SVN)
+5. Git : Linus Torvolds, distributed version control
+
+***********************************************************
+Distributed Version control Systems 
+* Support forking 
+
+***********************************************************
+Install for Ubuntu : apt-get-install git-core 
+Change characteristics : git config --global "attribute" "value"
+

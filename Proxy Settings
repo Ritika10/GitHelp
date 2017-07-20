@@ -1,0 +1,4 @@
+To set the proxy within the organization : 
+  vi /etc/apt/apt.conf
+  Acquire::http::Proxy "http://proxyaddress:proxyport";
+ 

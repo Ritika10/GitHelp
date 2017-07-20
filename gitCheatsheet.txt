@@ -16,4 +16,6 @@ Distributed Version control Systems
 ***********************************************************
 Install for Ubuntu : apt-get-install git-core 
 Change characteristics : git config --global "attribute" "value"
+  If it does not work, apply proxy settings as root and do an "apt-get upgrade"
+***********************************************************
 

@@ -1,4 +1,6 @@
-To set the proxy within the organization : 
+To set the proxy within the organization :
   vi /etc/apt/apt.conf
   Acquire::http::Proxy "http://proxyaddress:proxyport";
- 
+
+Set server proxy online
+  git config --global http.proxy http://<proxyaddress>:<proxyport>
